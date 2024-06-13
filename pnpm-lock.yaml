@@ -62,8 +62,8 @@ devDependencies:
     specifier: ^9.1.0
     version: 9.1.0(eslint@9.4.0)
   eslint-plugin-astro:
-    specifier: ^1.2.0
-    version: 1.2.0(eslint@9.4.0)(typescript@5.4.5)
+    specifier: ^1.2.2
+    version: 1.2.2(eslint@9.4.0)(typescript@5.4.5)
   eslint-plugin-prettier:
     specifier: ^5.1.3
     version: 5.1.3(eslint-config-prettier@9.1.0)(eslint@9.4.0)(prettier@3.3.1)
@@ -3113,8 +3113,8 @@ packages:
       eslint: 9.4.0
     dev: true
 
-  /eslint-plugin-astro@1.2.0(eslint@9.4.0)(typescript@5.4.5):
-    resolution: {integrity: sha512-Z2b/7a9EUNu8PWch6/fUKXTCj10hrbdVsR1CmUgke5nfrJuej+uUnL5z5hd9/IIWxLdSbk5Fowf/nyfbmhRmDQ==}
+  /eslint-plugin-astro@1.2.2(eslint@9.4.0)(typescript@5.4.5):
+    resolution: {integrity: sha512-3UUWo/gwk/YhurYpFKgLJswV33kR9zhtzXk+u2g3WE5Px07wDtWSR3PoyPadHERA4g/9TCCGjsimU/TZyUKxow==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
     peerDependencies:
       eslint: '>=8.57.0'
