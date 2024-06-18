@@ -9,8 +9,8 @@ dependencies:
     specifier: ^10.4.0
     version: 10.4.0(astro@4.10.1)
   '@astrojs/node':
-    specifier: ^8.2.6
-    version: 8.2.6(astro@4.10.1)
+    specifier: ^8.3.1
+    version: 8.3.1(astro@4.10.1)
   sharp:
     specifier: ^0.33.4
     version: 0.33.4
@@ -227,8 +227,8 @@ packages:
     transitivePeerDependencies:
       - supports-color
 
-  /@astrojs/node@8.2.6(astro@4.10.1):
-    resolution: {integrity: sha512-WirUUECgvElKJWw8dt/YJv0WC1kjRMw54zrDvY1DX6npvf6VcsYKwx6UQ+CUxwvR0Aen3F6Vjj1BWDrGM+zpeg==}
+  /@astrojs/node@8.3.1(astro@4.10.1):
+    resolution: {integrity: sha512-JwJzE1zyNcb2Tnk1PJIiIV2vGadR/h0C7h3WeN50H7S/DbNpkGrfwKrOxxpZwhkujnudddToA9U4yv+IPlCf0g==}
     peerDependencies:
       astro: ^4.2.0
     dependencies:
